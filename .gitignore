@@ -1,4 +1,2 @@
 .idea/
-wp-content/themes/start_theme/node_modules
-wp-content/themes/start_theme/node_modules/
-wp-content/themes/start_theme/node_modules/*
+wp-content/themes/start_theme/front-end/node_modules
