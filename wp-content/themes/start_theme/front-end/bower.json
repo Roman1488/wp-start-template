@@ -1,0 +1,26 @@
+{
+  "name": "front-end",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Roman1488 <romahazvz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Roman1488/wp-start-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "components-font-awesome": "^4.7.0",
+    "bootstrap": "v4.0.0-alpha.6"
+  },
+  "dependencies": {
+    "components-font-awesome": "^4.7.0",
+    "bootstrap": "v4.0.0-alpha.6",
+    "owl.carousel": "^2.2.1"
+  }
+}
